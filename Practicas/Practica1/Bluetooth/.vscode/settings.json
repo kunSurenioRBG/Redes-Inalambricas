@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "C:/Users/ponce/Downloads/bluecove-2.1.0.jar",
+        "lib/**/*.jar"
+    ]
+}

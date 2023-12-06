@@ -1,0 +1,5 @@
+1.Que es el multiacceso (division por frecuencia, tiempo y codigo)
+2.Por que es necesario salto y tiempo el bluetooth
+3.Caracteristicas zibgee, que dispositivos lo forman, topologia y ventajas e inconvenientes
+4.Su-mimo Mu-mimo (diferencias, ventajas e inconvenientes)
+5.Que tipo de trama es la prove request y que es. Diferencia con la trama beacon

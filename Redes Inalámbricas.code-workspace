@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"Practicas/Practica1/Bluetooth/lib/bluecove-2.1.1.jar",
+			"c:\\Users\\ponce\\Downloads\\bluecove-2.1.0.jar",
+			"Practicas/Practica1/bluecove-2.1.1-64x.jar",
+			"Practicas/Practica1/Bluetooth/lib/ChatUI.jar"
+		],
+		"java.project.sourcePaths": [
+			".",
+			"Practicas\\Practica1\\Bluetooth\\src"
+		]
+	}
+}
